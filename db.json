@@ -1,16 +1,6 @@
 {
-  usuarios: [
-    {
-    id: 1,
-    username: "jorge12",
-    password: "2020",
-    nivel: "facil"
-    },
-    {
-    id: 2,
-    username: "ketto",
-    password: "2020",
-    nivel: "intermedio"
-    }
-    ],
+ usuarios: {
+  id:1 
+ }
+  
 }
